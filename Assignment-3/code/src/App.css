@@ -1,0 +1,67 @@
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.page-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin:10px;
+    border:1px dotted;
+    padding:5px 30px 5px 30px;
+}
+
+.customer-info{
+    border:1px dotted;
+    margin:30px;
+    padding:10px;
+}
+
+.order-info{
+    background-color: gainsboro;
+    display: flex;
+    justify-content: space-around;
+    margin:30px;
+    padding:10px;
+    border:1px dotted;
+}
+
+.product-list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border:1px dotted;
+    margin:30px;
+    padding:15px;
+}
+
+.page-header .unit_two{
+    text-align: center;
+}
+
+.headbtn{
+    width:60px;
+    height:35px;
+    background-color: black;
+    color: white;
+}
+
+.order-info .block_one{
+    margin-left: -150px;
+}
+
+input{
+    width:30px;
+    height:30px;
+}
+
+.product-list .second{
+    padding-left: 30px;
+}
+
+.product-list .third{
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top:-30px;
+}
